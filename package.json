@@ -12,7 +12,7 @@
   ],
   "category": "unity utilities",
   "dependencies": {
-    "com.zloivan.unityextensions": "1.0.3"
+    "com.zloivan.unityextensions": "git@github.com:zloivan/Extensions.git"
   },
   "_upm": {
     "changelog": "- initial version"
