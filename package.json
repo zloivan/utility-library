@@ -1,0 +1,30 @@
+{
+  "name": "com.zloivan.unityutilities",
+  "displayName": "Unity Utility Library",
+  "description": "Unity Utility Library, a collection of utility classes and Components.",
+  "version": "1.0.0",
+  "keywords": [
+    "extension",
+    "attribute",
+    "inspector",
+    "editor",
+    "components"
+  ],
+  "category": "unity utilities",
+  "dependencies": {
+    "com.zloivan.unityextensions": "1.0.3"
+  },
+  "_upm": {
+    "changelog": "- initial version"
+  },
+  "author": {
+    "name": "zloivan",
+    "url": "https://github.com/zloivan"
+  },
+  "documentationUrl": "https://github.com/zloivan/UnityUtilities/blob/master/README.md",
+  "repository": {
+    "url": "https://github.com/zloivan/UnityUtilities.git",
+    "type": "git",
+    "revision": "0826c410ed028220f6c1671d166cf99c5b3be373"
+  }
+}
