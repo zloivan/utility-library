@@ -1,30 +1,27 @@
 {
   "name": "com.zloivan.unityutilities",
-  "displayName": "Unity Utility Library",
-  "description": "Unity Utility Library, a collection of utility classes and Components.",
-  "version": "1.0.0",
+  "displayName": "IKhom Utility Library",
+  "description": "Utility Library for Unity, a collection of utility classes and Components.",
+  "version": "1.0.2",
   "keywords": [
-    "extension",
     "attribute",
     "inspector",
     "editor",
-    "components"
+    "components",
+    "unity"
   ],
   "category": "unity utilities",
-  "dependencies": {
-    "com.zloivan.unityextensions": "git@github.com:zloivan/Extensions.git"
-  },
   "_upm": {
-    "changelog": "- initial version"
+    "changelog": "-reorganize classes and assemblies"
   },
   "author": {
-    "name": "zloivan",
+    "name": "Ivan Khomichkov",
     "url": "https://github.com/zloivan"
   },
   "documentationUrl": "https://github.com/zloivan/UnityUtilities/blob/master/README.md",
   "repository": {
     "url": "https://github.com/zloivan/UnityUtilities.git",
     "type": "git",
-    "revision": "0826c410ed028220f6c1671d166cf99c5b3be373"
+    "revision": "ad9e84056b62d617d5dccb54de74365c3e72f6cd"
   }
 }

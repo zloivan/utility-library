@@ -5,7 +5,7 @@ using System;
 using System.IO;
 using System.Net;
 
-namespace Utilities
+namespace IKhom.UtilitiesLibrary.Runtime
 {
     public static class NetworkConnectionChecker
     {

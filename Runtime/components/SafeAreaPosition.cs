@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Utilities.Components
+namespace IKhom.UtilitiesLibrary.Runtime.components
 {
     [DisallowMultipleComponent]
     public class SafeAreaPosition : MonoBehaviour

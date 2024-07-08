@@ -1,7 +1,8 @@
+using IKhom.UtilitiesLibrary.Runtime;
 using UnityEditor;
 using UnityEngine;
 
-namespace Utilities.Editor
+namespace IKhom.UtilitiesLibrary.Editor.Drawers
 {
     /// <summary>
     /// This class contain custom drawer for ReadOnly attribute.

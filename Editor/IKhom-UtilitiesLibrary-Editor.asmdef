@@ -1,13 +1,15 @@
 {
-    "name": "UnityUtilities",
-    "rootNamespace": "",
+    "name": "IKhom-UtilitiesLibrary-Editor",
+    "rootNamespace": "IKhom",
     "references": [
-        "UnityExtensions"
+        "IKhom-UtilitiesLibrary"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": true,
+    "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Utilities
+namespace IKhom.UtilitiesLibrary.Runtime
 {
     public class ReadOnlyAttribute : PropertyAttribute { }
 }

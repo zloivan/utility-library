@@ -1,7 +1,9 @@
+using IKhom.UtilitiesLibrary.Runtime.extensions;
 using UnityEngine;
-using UnityExtensions;
 
-namespace Utilities.Components
+//using UnityExtensions;
+
+namespace IKhom.UtilitiesLibrary.Runtime.components
 {
     [RequireComponent(typeof(RectTransform))]
     public class RectDrawer : MonoBehaviour

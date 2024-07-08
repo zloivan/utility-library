@@ -1,12 +1,13 @@
 ﻿// ReSharper disable UnusedType.Global
 // ReSharper disable UnusedMember.Global
+
 using UnityEngine;
 using Object = UnityEngine.Object;
 
 
-namespace Utilities
+namespace IKhom.UtilitiesLibrary.Runtime
 {
-    public static class Logger
+    public static class ColorLogger
     {
         public static void Log(object message, Color color)
         {

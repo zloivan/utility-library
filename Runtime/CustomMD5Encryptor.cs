@@ -1,10 +1,11 @@
 ﻿// ReSharper disable UnusedType.Global
 // ReSharper disable UnusedMember.Global
+
 using System;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Utilities
+namespace IKhom.UtilitiesLibrary.Runtime
 {
     public class CustomMD5Encryptor
     {
