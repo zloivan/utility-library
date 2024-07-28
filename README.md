@@ -8,4 +8,4 @@ To use this package in your Unity project, follow these steps:
 - Open your Unity project.
 - Go to Window > Package Manager.
 - Click the + button and select Add package from git URL....
-- Enter the following URL: https://github.com/zloivan/utilitiy-library.git.
+- Enter the following URL: https://github.com/zloivan/utility-library.git.
