@@ -2,7 +2,7 @@
   "name": "com.zloivan.utilities",
   "displayName": "IKhom Utility Library",
   "description": "Utility Library for Unity, a collection of utility classes and Components.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "attribute",
     "inspector",
@@ -12,7 +12,7 @@
   ],
   "category": "unity utilities",
   "_upm": {
-    "changelog": "-reorganize classes and assemblies"
+    "changelog": "-added singleton class\n-reorganize classes and assemblies"
   },
   "author": {
     "name": "Ivan Khomichkov",
