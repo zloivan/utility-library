@@ -9,3 +9,6 @@ To use this package in your Unity project, follow these steps:
 - Go to Window > Package Manager.
 - Click the + button and select Add package from git URL....
 - Enter the following URL: https://github.com/zloivan/utility-library.git.
+
+## Enable logs
+To enable logs, add `DEBUG_EXTENSIONS`

@@ -2,7 +2,7 @@
   "name": "com.zloivan.utilities",
   "displayName": "IKhom Utility Library",
   "description": "Utility Library for Unity, a collection of utility classes and Components.",
-  "version": "1.0.3",
+  "version": "1.2.0",
   "keywords": [
     "attribute",
     "inspector",
@@ -12,7 +12,7 @@
   ],
   "category": "unity utilities",
   "_upm": {
-    "changelog": "-added singleton class\n-reorganize classes and assemblies"
+    "changelog": "- added validator\n-added logs"
   },
   "author": {
     "name": "Ivan Khomichkov",
@@ -22,6 +22,6 @@
   "repository": {
     "url": "https://github.com/zloivan/UnityUtilities.git",
     "type": "git",
-    "revision": "ad9e84056b62d617d5dccb54de74365c3e72f6cd"
+    "revision": "c3b7dd9e8b419335e0ba4a93152186cd961fdd2f"
   }
 }

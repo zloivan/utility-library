@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace IKhom.UtilitiesLibrary.Runtime.extensions
+namespace IKhom.UtilitiesLibrary.Runtime.helpers
 {
     internal static class RectTransformExtensions
     {
