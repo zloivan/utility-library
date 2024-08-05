@@ -9,7 +9,12 @@ namespace IKhom.UtilitiesLibrary.Runtime.components
     public class RectDrawer : MonoBehaviour
     {
         [SerializeField]
+#if UNITY_2021_2_OR_NEWER
         private Color _color = new(0.25f, 0.9f, 1f, 0.1f);
+#else
+        private Color _color = new Color(0.25f, 0.9f, 1f, 0.1f);
+#endif
+        
 
         private RectTransform _rectTransform;
 
