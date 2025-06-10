@@ -2,7 +2,7 @@
   "name": "com.zloivan.utilities",
   "displayName": "IKhom Utility Library",
   "description": "Utility Library for Unity, a collection of utility classes and Components.",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "keywords": [
     "attribute",
     "inspector",
@@ -12,7 +12,7 @@
   ],
   "category": "unity utilities",
   "_upm": {
-    "changelog": "- added validator\n-added logs"
+    "changelog": "- Refactored PersistentSingleton into SingletonBehaviour with thread-safe implementation\n- Added improved singleton functionality with configurable persistence and auto-detachment options"
   },
   "author": {
     "name": "Ivan Khomichkov",
@@ -22,6 +22,6 @@
   "repository": {
     "url": "https://github.com/zloivan/UnityUtilities.git",
     "type": "git",
-    "revision": "c3b7dd9e8b419335e0ba4a93152186cd961fdd2f"
+    "revision": "d206f795972270105179cc963705dbf9c376e50f"
   }
 }

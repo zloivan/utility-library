@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0] - 2025-06-10
+### Changed
+- Refactored PersistentSingleton into SingletonBehaviour with thread-safe implementation
+- Improved singleton functionality with better lifecycle management
+- Added configurable persistence across scenes option
+- Added proper application quit handling to prevent null reference exceptions
+- Enhanced singleton destruction safety with proper cleanup
+
+### Added
+- Thread-safe singleton instance access with lock mechanism
+- Configurable auto-detachment from parent on Awake
+- Better debug logging for singleton conflicts and lifecycle events
+
 ## [1.2.0] - 2024-08-03
 ### Added
 - Addedd Validator
