@@ -21,8 +21,11 @@ namespace IKhom.UtilitiesLibrary.Runtime.components
         [Tooltip("Target camera for alignment (uses Main Camera if not set)")]
         private Camera _cameraToLookAt;
 
-        private void Awake() =>
-            _cameraToLookAt ??= Camera.main;
+        private void Awake()
+        {
+            if (!_cameraToLookAt)
+                _cameraToLookAt = Camera.main;
+        }
 
         /// <summary>
         /// Called once per frame after all Update calls have been completed.
