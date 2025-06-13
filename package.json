@@ -2,7 +2,7 @@
   "name": "com.zloivan.utilities",
   "displayName": "IKhom Utility Library",
   "description": "Utility Library for Unity, a collection of utility classes and Components.",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "keywords": [
     "attribute",
     "inspector",
@@ -12,7 +12,7 @@
   ],
   "category": "unity utilities",
   "_upm": {
-    "changelog": "- Update namespaces for the SingletonBehaviour script"
+    "changelog": "- LookAtCamera script added"
   },
   "author": {
     "name": "Ivan Khomichkov",
@@ -22,6 +22,6 @@
   "repository": {
     "url": "https://github.com/zloivan/utility-library.git",
     "type": "git",
-    "revision": "21172d632d1df1594f9c5020eb2d9d906ec8c5d4"
+    "revision": "c9b3040145e2f259b892825556f322504018c6f3"
   }
 }
