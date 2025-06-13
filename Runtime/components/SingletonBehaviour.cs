@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace _Game.Scripts.Utils
+namespace IKhom.UtilitiesLibrary.Runtime.components
 {
     /// <summary>
     /// A generic singleton class that ensures only one instance of the specified component type exists.
